@@ -17,5 +17,7 @@ public class FridayGitDkIT {
     public static void main(String[] args) {
         // TODO code application logic here
     }
-    
+    void dannyt(String s)
+    {
+    }
 }
