@@ -7,17 +7,15 @@ package fridaygitdkit;
 
 /**
  *
- * @author Krzysztof Podlaski
+ * @author D00191063
  */
 public class FridayGitDkIT {
 
-    /**
-     * @param args the command line arguments
-     */
+    void seansSuperiorMethod(){
+        
+    }
     public static void main(String[] args) {
-        // TODO code application logic here
+        
     }
-    void dannyt(String s)
-    {  
-    }
-}    
+    
+}

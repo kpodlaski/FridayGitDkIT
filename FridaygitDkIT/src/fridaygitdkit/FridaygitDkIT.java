@@ -7,9 +7,9 @@ package fridaygitdkit;
 
 /**
  *
- * @author Krzysztof Podlaski
+ * @author d00198128
  */
-public class FridayGitDkIT {
+public class FridaygitDkIT {
 
     /**
      * @param args the command line arguments
@@ -17,7 +17,10 @@ public class FridayGitDkIT {
     public static void main(String[] args) {
         // TODO code application logic here
     }
-    void dannyt(String s)
-    {  
+    
+    void aoifeMageeMethod(String s) 
+    {
+        
     }
-}    
+    
+}
