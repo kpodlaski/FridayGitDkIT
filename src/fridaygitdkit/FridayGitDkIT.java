@@ -18,4 +18,8 @@ public class FridayGitDkIT {
         // TODO code application logic here
     }
     
+    void kpodlaskiM(String s){
+        
+    }
+    
 }
