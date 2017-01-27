@@ -22,5 +22,6 @@ public class FridaygitDkIT {
     {
         
     }
+void thuMethod(){}
     
 }
